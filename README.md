@@ -5,7 +5,7 @@ The goal is to create a function that reads a file and returns line by line.
 
 ## Function
 
-```bash
+```c
 char	*get_next_line(int fd);
 ```
 
