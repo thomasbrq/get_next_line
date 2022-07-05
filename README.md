@@ -17,4 +17,7 @@ fd = the file descriptor of the file you want read.
 Include 'get_next_line.h' in your project and compile.
 ## Authors
 
+## The Norm
+This project was realized following [the standard 42](https://raw.githubusercontent.com/42Paris/norminette-v3/master/pdf/en.norm.pdf). 
+
 - [@thomasbrq](https://www.github.com/thomasbrq)
